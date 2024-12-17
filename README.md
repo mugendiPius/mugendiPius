@@ -8,7 +8,8 @@ I'm a **Backend Developer** specializing in **Java Spring Boot**. I love buildin
 ## 🛠️ Technologies & Tools I Work With:  
 
 **Backend Development:**  
-- 🌟 Java | Spring Boot | Spring MVC | Spring Data JPA  | JWT | OAUTH | SSO | KeyCloak
+- 🌟 Java | Spring Boot | Spring MVC | Spring Data JPA
+- 👌  JWT | OAUTH | SSO | KeyCloak | Kafka |AWS S3 
 - 🔗 REST APIs | Microservices Architecture  
 
 **Databases:**  
@@ -42,9 +43,9 @@ Here are a few projects that showcase my expertise:
 ## 💬 Let’s Connect!  
 I’m always open to collaboration, opportunities, and tech discussions.  
 
-- **LinkedIn:** [Your LinkedIn](#)  
+- **LinkedIn:**  
 - **Upwork:** https://www.upwork.com/freelancers/~0160e037029ba50d32?mp_source=share 
-- **GitHub:** [github.com/yourusername](https://github.com/mugendiPius)  
+- **GitHub:** https://github.com/mugendiPius
 
 📫 **Reach out to me:** `mdaucodes@gmail.com` or `mdau910@gmail.com` 
 
