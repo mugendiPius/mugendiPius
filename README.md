@@ -51,6 +51,6 @@ I’m always open to collaboration, opportunities, and tech discussions.
 
 ---
 
-⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+`⚡ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  `
 
 ---
